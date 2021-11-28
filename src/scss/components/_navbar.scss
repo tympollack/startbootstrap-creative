@@ -1,10 +1,10 @@
-// 
+//
 // Navbar
-// 
+//
 
 #mainNav {
     box-shadow: $box-shadow;
-    background-color: $white;
+    background-color: #67B04D;
     transition: background-color 0.2s ease;
 
     .navbar-brand {
@@ -50,11 +50,11 @@
         .navbar-nav {
             .nav-item {
                 .nav-link {
-                    color: fade-out($white, 0.3);
+                    color: fade-out(#67B04D, 0.3);
                     padding: 0 1rem;
 
                     &:hover {
-                        color: $white;
+                        color: #67B04D;
                     }
                 }
 
@@ -69,7 +69,7 @@
         // Navbar styling applied when the page is scrolled
         &.navbar-shrink {
             box-shadow: $box-shadow;
-            background-color: $white;
+            background-color: #67B04D;
 
             .navbar-brand {
                 color: $gray-900;

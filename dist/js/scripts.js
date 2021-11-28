@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Creative v7.0.5 (https://startbootstrap.com/theme/creative)
+* Start Bootstrap - Queen City RFC Bootstrap v1.0.0 (https://startbootstrap.com/theme/creative)
 * Copyright 2013-2021 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
+* Licensed under MIT (https://github.com/StartBootstrap/qcrfc-bootstrap/blob/master/LICENSE)
 */
 //
 // Scripts
